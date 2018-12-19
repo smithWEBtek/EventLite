@@ -6,5 +6,5 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-comment.create(content: 'wow')
-comment.create(content: 'yay')
+Comment.create(content: 'wow')
+Comment.create(content: 'yay')
